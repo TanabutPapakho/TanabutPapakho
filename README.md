@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://learn.microsoft.com/en-us/shows/hello-world/media/helloworld_383x215.png" width="100"/>
+  <img src="https://learn.microsoft.com/en-us/shows/hello-world/media/helloworld_383x215.png" width="1080"/>
 </div>
 
 <!--
