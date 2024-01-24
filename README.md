@@ -16,6 +16,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://s.w.org/style/images/about/WordPress-logotype-alternative.png" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Robot-framework-logo.png" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Selenium_Logo.png/1148px-Selenium_Logo.png?20200511151950" title="Git" **alt="Git" width="40" height="40"/>
 
   
 
