@@ -1,6 +1,6 @@
 ### Hi there 👋
 <div id="header" align="center">
-  <img src="https://img.freepik.com/free-vector/isometric-typography-message-hello_23-2148461975.jpg?w=1480&t=st=1706106205~exp=1706106805~hmac=30ec5f925bc904420df0ce110162a3860a936f4c2e6e5d4f9cd0c42d6609b14e" width="800"/>
+  <img src="https://img.freepik.com/free-vector/isometric-typography-message-hello_23-2148461975.jpg?w=1480&t=st=1706106205~exp=1706106805~hmac=30ec5f925bc904420df0ce110162a3860a936f4c2e6e5d4f9cd0c42d6609b14e" width="1080"/>
 </div>
 
 <!--
